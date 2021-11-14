@@ -1,0 +1,405 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.22)  21 SEP 2021 06:47
+entering extended mode
+**./Report.tex
+(Report.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-08-07>
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@chapter=\count169
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@subparagraph=\count174
+\c@figure=\count175
+\c@table=\count176
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfig
+ure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip49
+\subfigcapskip=\skip50
+\subfigcaptopadj=\dimen135
+\subfigbottomskip=\skip51
+\subfigcapmargin=\dimen136
+\subfiglabelskip=\skip52
+\c@subfigure=\count177
+\c@lofdepth=\count178
+\c@subtable=\count179
+\c@lotdepth=\count180
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfig
+ure.cfg")
+\subfig@top=\skip53
+\subfig@bottom=\skip54
+)
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/acronym\acronym.
+sty"
+Package: acronym 2020/04/17 v1.47 Support for acronyms (Tobias Oetiker)
+
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/bigfoot\suffix.s
+ty"
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xstring\xstring.
+sty"
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xstring\xstrin
+g.tex"
+\integerpart=\count181
+\decimalpart=\count182
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+)
+\AC@clearlist=\toks15
+)
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multiro
+w.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count183
+\multirow@dima=\skip56
+\bigstrutjot=\dimen137
+)
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lastpage\lastpag
+e.sty"
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+)
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhd
+r.sty"
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip57
+\f@nch@O@elh=\skip58
+\f@nch@O@erh=\skip59
+\f@nch@O@olh=\skip60
+\f@nch@O@orh=\skip61
+\f@nch@O@elf=\skip62
+\f@nch@O@erf=\skip63
+\f@nch@O@olf=\skip64
+\f@nch@O@orf=\skip65
+)
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+x.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
+sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+s.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
+y"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
+phics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
+tex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen138
+\Gin@req@width=\dimen139
+)
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
+y.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.s
+ty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.st
+y"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count184
+\Gm@cntv=\count185
+\c@Gm@tempcnt=\count186
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks17
+
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
+y.cfg"))
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.st
+y"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+
+
+Package natbib Warning: The `cite' package should not be used
+(natbib)                with natbib. Use option `sort' instead.
+
+\bibhang=\skip66
+\bibsep=\skip67
+LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citenum on input line 708.
+\c@NAT@ctr=\count187
+)
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3back
+end-pdfmode.def"
+File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count188
+\l__pdf_internal_box=\box45
+) (Report.aux)
+\openout1 = `Report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 32.
+
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
+-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count189
+\scratchdimen=\dimen148
+\scratchbox=\box46
+\nofMPsegments=\count190
+\nofMParguments=\count191
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count192
+\MPscratchDim=\dimen149
+\MPnumerator=\count193
+\makeMPintoPDFobject=\count194
+\everyMPtoPDFconversion=\toks19
+)
+("C:\Users\Ashwini\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\eps
+topdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 652.70622pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=652.70622pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(Cover.tex
+<Logo.JPG, id=1, 130.23656pt x 97.86563pt>
+File: Logo.JPG Graphic file (type jpg)
+<use Logo.JPG>
+Package pdftex.def Info: Logo.JPG  used on input line 35.
+(pdftex.def)             Requested size: 104.18938pt x 78.29259pt.
+) [1
+
+{C:/Users/Ashwini/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Logo.JP
+G>] (certificate.tex
+File: Logo.JPG Graphic file (type jpg)
+<use Logo.JPG>
+Package pdftex.def Info: Logo.JPG  used on input line 10.
+(pdftex.def)             Requested size: 104.18938pt x 78.29259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--27
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 28.
+
+Overfull \hbox (41.40598pt too wide) in paragraph at lines 28--34
+ [] 
+ []
+
+) (acknowledgement.tex [1]) [2] (abstract.tex) [3
+
+] (Report.toc [4
+
+])
+\tf@toc=\write3
+\openout3 = `Report.toc'.
+
+ [5]
+(Report.lot)
+\tf@lot=\write4
+\openout4 = `Report.lot'.
+
+ (listofsymb.tex [6
+
+]) [7
+
+] (chapter1.tex
+Chapter 1.
+[1
+
+] [2]
+<Logo.jpg, id=37, 130.23656pt x 97.86563pt>
+File: Logo.jpg Graphic file (type jpg)
+<use Logo.jpg>
+Package pdftex.def Info: Logo.jpg  used on input line 38.
+(pdftex.def)             Requested size: 350.33727pt x 263.29391pt.
+) (chapter2.tex [3 <./Logo.jpg>]
+Chapter 2.
+) (chapter3.tex [4
+
+]
+Chapter 3.
+) (chapter4.tex [5
+
+]
+Chapter 4.
+) (chapter5.tex [6
+
+]
+Chapter 5.
+) (chapter6.tex [7
+
+]
+Chapter 6.
+) (chapter7.tex [8
+
+]
+Chapter 7.
+) (Abbreviations.tex [9
+
+]
+Chapter 8.
+) (Appendix.tex [10
+
+]
+Chapter 9.
+) (references.tex [11
+
+])
+
+Package natbib Warning: Citation `ac' undefined on input line 83.
+
+
+AED: lastpage setting LastPage
+[12
+
+]
+
+Package natbib Warning: There were undefined citations.
+
+(Report.aux) ) 
+Here is how much of TeX's memory you used:
+ 3145 strings out of 481212
+ 47768 string characters out of 2903126
+ 297579 words of memory out of 3000000
+ 18681 multiletter control sequences out of 15000+200000
+ 540632 words of font info for 47 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,10n,45p,2665b,296s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Ashwini\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tcrm1200.pk><C:/Users/Ashwini/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Ashwini/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Ashwini/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/User
+s/Ashwini/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi
+8.pfb><C:/Users/Ashwini/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmr12.pfb><C:/Users/Ashwini/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr8.pfb><C:/Users/Ashwini/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Report.pdf (20 pages, 128904 bytes).
+PDF statistics:
+ 102 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Report.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+Database file #1: bibli.bib
+Repeated entry---line 111 of file bibli.bib
+ : @article{ac
+ :            
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 155 of file bibli.bib
+ :  
+ :  http://
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 1 entry,
+            2118 wiz_defined-function locations,
+            503 strings with 4224 characters,
+and the built_in function-call counts, 566 in all, are:
+= -- 53
+> -- 28
+< -- 1
++ -- 12
+- -- 10
+* -- 39
+:= -- 88
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 8
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 23
+empty$ -- 42
+format.name$ -- 10
+if$ -- 122
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 8
+num.names$ -- 2
+pop$ -- 11
+preamble$ -- 1
+purify$ -- 7
+quote$ -- 0
+skip$ -- 20
+stack$ -- 0
+substring$ -- 38
+swap$ -- 11
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 0
+while$ -- 5
+width$ -- 2
+write$ -- 13
+(There were 2 error messages)
